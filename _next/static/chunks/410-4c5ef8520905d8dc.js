@@ -336,7 +336,7 @@
                               }),
                             }),
                             (0, a.jsx)("a", {
-                              href: "https://t.me/shironecko_eth_Community",
+                              href: "https://t.me/shironeko_erc20",
                               target: "_blank",
                               children: (0, a.jsx)("img", {
                                 src: i + "/images/Telegram Icon.webp",
@@ -345,7 +345,7 @@
                               }),
                             }),
                             (0, a.jsx)("a", {
-                              href: "https://x.com/shironecko_eth",
+                              href: "https://x.com/shironeko_eth",
                               target: "_blank",
                               children: (0, a.jsx)("img", {
                                 src: i + "/images/dfdfdsfsd.png",

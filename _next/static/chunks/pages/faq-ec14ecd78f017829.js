@@ -903,7 +903,7 @@
                               }),
                             }),
                             (0, o.jsx)("a", {
-                              href: "https://t.me/shironecko_eth_Community",
+                              href: "https://t.me/shironeko_erc20",
                               target: "_blank",
                               className: "pointer-events-auto",
                               children: (0, o.jsx)("img", {
@@ -913,7 +913,7 @@
                               }),
                             }),
                             (0, o.jsx)("a", {
-                              href: "https://x.com/shironecko_eth",
+                              href: "https://x.com/shironeko_eth",
                               target: "_blank",
                               className: "pointer-events-auto",
                               children: (0, o.jsx)("img", {

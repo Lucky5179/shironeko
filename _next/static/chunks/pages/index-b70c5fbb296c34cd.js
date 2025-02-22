@@ -549,7 +549,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
                                 "flex gap-2 items-center md:justify-start justify-center pointer-events-none",
                               children: [
                                 (0, s.jsx)("a", {
-                                  href: "https://x.com/shironecko_eth",
+                                  href: "https://x.com/shironeko_eth",
                                   target: "_blank",
                                   className:
                                     "cursor-none flex-shrink-0 font-bold pointer-events-auto font-DunkelSans uppercase text-white text__16 minW1600:!text-[1.8vw]",
@@ -560,7 +560,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
                                   }),
                                 }),
                                 (0, s.jsx)("a", {
-                                  href: "https://t.me/shironecko_eth_Community",
+                                  href: "https://t.me/shironeko_erc20",
                                   target: "_blank",
                                   className:
                                     "cursor-none flex-shrink-0 font-bold pointer-events-auto font-DunkelSans uppercase text-white text__16 minW1600:!text-[1.8vw]",
