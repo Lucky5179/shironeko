@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[389],{8389:function(e,s,l){l.r(s);var r=l(5893),a=l(7294),c=l(9357);s.default=()=>{let e=(0,c.ZP)();return(0,r.jsx)(a.Fragment,{children:(0,r.jsx)("div",{className:"relative w-full h-full",children:(0,r.jsx)("img",{src:e+"/videos/compress.gif",alt:""})})})}}}]);
